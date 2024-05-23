@@ -1,4 +1,4 @@
-<img src="public/img/screen"> 
+<img src="public/img/screen.png"> 
 
 ##  Getting Started
 
