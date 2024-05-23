@@ -1,3 +1,5 @@
+<img src="public/img/screen"> 
+
 ##  Getting Started
 
 This project was created to calculate a person's basal metabolic rate, disregarding the physical activity factor.
