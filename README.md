@@ -20,6 +20,8 @@ This project was created to calculate a person's basal metabolic rate, disregard
 
 npm start
 
+access http://localhost:5173/
+
 ## :arrow_down: Credits
 
 Alan Oliveira
