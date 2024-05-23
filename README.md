@@ -19,6 +19,7 @@ This project was created to calculate a person's basal metabolic rate, disregard
 #### Run the commands
 
 npm start
+
 access http://localhost:5173/
 
 ## :arrow_down: Credits
